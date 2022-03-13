@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
 
-        int[] numbers = {4, 2, 6, 1, 0, 9};
+        int[] numbers = {4, 99, 2, 6, 1, 0, 9};
 
         for (int i = 0; i < numbers.length; i++) {
             int val = i;
